@@ -28,12 +28,12 @@ const MyNavbar = (props) => {
     </Nav.Item>
     <Nav.Item>
       <Nav.Link href="/test">
-        Test
+        Test books
       </Nav.Link>
     </Nav.Item>
     <Nav.Item>
       <Nav.Link href="/test2">
-        Test
+        Test collections
       </Nav.Link>
     </Nav.Item>
   </Nav>
